@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>TGX SPAMMER</b>
+  <b>𝓣𝓖𝓧 𝓢𝓟𝓐𝓜𝓜𝓔𝓡</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/SUKHPAL443/TGXSPAMMER?style=flat-square&color=orange)](https://github.com/SUKHPAL443/TGXSPAMMER/fork)
