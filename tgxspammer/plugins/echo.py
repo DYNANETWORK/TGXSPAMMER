@@ -9,7 +9,7 @@ from tgxspammer import Mam, Mam2, Mam3, Mam4, Mam5 , Mam6, Mam7, Mam8, Mam9, Mam
 
 from tgxspammer import CMD_HNDLR as hl
 from tgxspammer.sql.echo_sql import addecho, get_all_echos, is_echo, remove_echo
-from resources.data import tgxspammer
+from resources.data import MambaX
 
 
 @Mam.on(events.NewMessage(incoming=True, pattern=r"\%saddecho(?: |$)(.*)" % hl))
