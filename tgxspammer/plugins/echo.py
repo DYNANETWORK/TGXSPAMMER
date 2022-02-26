@@ -28,7 +28,7 @@ async def echo(event):
      if event.reply_to_msg_id is not None:
             reply_msg = await event.get_reply_message()
             user_id = reply_msg.sender_id
-            if int(user_id) in RiZoeLX:
+            if int(user_id) in MambaX:
                     text = f"I can't echo @TGXSPAMMER's Owner"
                     await event.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) == OWNER_ID:
