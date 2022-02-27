@@ -1,5 +1,5 @@
 build:
   docker:
-    Riz: Dockerfile
+    worker: Dockerfile
 run:
-  Riz: python3 -m tgxspammer
+  worker: python3 -m tgxspammer
