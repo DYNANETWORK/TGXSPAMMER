@@ -95,12 +95,12 @@
         },
         "HEROKU_API_KEY": {
             "description": "Your Heroku api key to update your bot",
-            "value": "",
+            "value": "7b0413ff-db61-4926-a526-0b2eb2678826",
             "required": true 
         },
         "HEROKU_APP_NAME": {
             "description": "Your app name to Update your bot",
-          "value": "",
+          "value": "unknowndad",
           "required": false  
         }
     },
