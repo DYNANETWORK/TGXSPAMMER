@@ -3,7 +3,7 @@ import asyncio
 import sys
 import git
 import heroku3
-from tgxspammer import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY, rizoelversion
+from tgxspammer import Mam, Mam2, Mam3, Mam4, Mam5 , Mam6, Mam7, Mam8, Mam9, Mam10, OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY, tgxversion
 from tgxspammer import CMD_HNDLR as hl
 from telethon.tl.functions.users import GetFullUserRequest
 from tgxspammer import ALIVE_PIC
@@ -112,43 +112,43 @@ async def restart(e):
         text = "**Restarting Your TGX SPAMMER**.. Please Wait Until It Starts Again"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
-            await Riz.disconnect()
+            await Mam.disconnect()
         except Exception:
             pass
         try:
-            await Riz2.disconnect()
+            await Mam2.disconnect()
         except Exception:
             pass
         try:
-            await Riz3.disconnect()
+            await Mam3.disconnect()
         except Exception:
             pass
         try:
-            await Riz4.disconnect()
+            await Mam4.disconnect()
         except Exception:
             pass
         try:
-            await Riz5.disconnect()
+            await Mam5.disconnect()
         except Exception:
             pass
         try:
-            await Riz6.disconnect()
+            await Mam6.disconnect()
         except Exception:
             pass
         try:
-            await Riz7.disconnect()
+            await Mam7.disconnect()
         except Exception:
             pass
         try:
-            await Riz8.disconnect()
+            await Mam8.disconnect()
         except Exception:
             pass
         try:
-            await Riz9.disconnect()
+            await Mam9.disconnect()
         except Exception:
             pass
         try:
-            await Riz10.disconnect()
+            await Mam10.disconnect()
         except Exception:
             pass
 
@@ -164,7 +164,7 @@ sudousers = os.environ.get("SUDO_USER", None)
 async def tb(event):
     if event.sender_id == OWNER_ID:
         ok = await event.reply("Adding user as a sudo...")
-        rizoel = "SUDO_USER"
+        mamba = "SUDO_USER"
         if HEROKU_APP_NAME is not None:
             app = Heroku.app(HEROKU_APP_NAME)
         else:
