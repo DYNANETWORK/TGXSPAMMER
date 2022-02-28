@@ -15,7 +15,7 @@
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "",
+        "value": "6759688",
         "required": true
       },
       "ALIVE_PIC": {
@@ -25,7 +25,7 @@
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "",
+        "value": "b08691f7d75645093f690010f58bafec",
         "required": true
       },
      "CMD_HNDLR": {
@@ -35,68 +35,68 @@
         },
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5191544718:AAEB8OdjvR9acP_3xFKBizSo_tyRs6SYaoA",
         "required": true
       },
       "BOT_TOKEN2": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5250358638:AAH8wiYketf-GDOIpoO_klQNJ6YILTFuzKg",
         "required": true
       },
       "BOT_TOKEN3": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5192823396:AAFR5SH4viUnsLnJXpmCrsZXHta31naF2Tc",
         "required": true
       },
       "BOT_TOKEN4": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5114229429:AAFLk1bPxWDOkyws4eCkr-LJ5U54i7rjwBM",
         "required": true
       },
       "BOT_TOKEN5": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5290805192:AAEFK6ohpttUZfeF9dfcatXKpiRveKIDSHI",
         "required": true
       },
       "BOT_TOKEN6": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5294981772:AAGEW4lK_69-TqAJDpQ-T9R4WFJZksgiypw",
         "required": true
       },
       "BOT_TOKEN7": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5247168593:AAF6CZW12j4YpI5tNER4b_ILtPtufR62iwI",
         "required": true
       },
       "BOT_TOKEN8": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5166435547:AAHMPh9kxGtAlxaM1Tbwg5A2A4pFVFLXp50",
         "required": true
       },
       "BOT_TOKEN9": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5108094415:AAGnoJ__PTEo8cYf7JQFzurklBTjTrJWmn8",
         "required": true
       },
       "BOT_TOKEN10": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5112624727:AAGiN2QR-R69FgLTQbB4Cep1kwafSkgkC30",
         "required": true
       },
        "SUDO_USER": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "5183881546",
             "required": false
         },
       "OWNER_ID": {
             "description": "owner Id",
-            "value": "",
+            "value": "5222186306",
             "required": true
         },
         "HEROKU_API_KEY": {
             "description": "Your Heroku api key to update your bot",
             "value": "",
-            "required": false 
+            "required": true 
         },
         "HEROKU_APP_NAME": {
             "description": "Your app name to Update your bot",
